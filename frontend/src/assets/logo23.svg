@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60mm" height="15mm" version="1.1" viewBox="0 0 518.89 136.77" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="d" x1="74.835" x2="209.02" y1="183.22" y2="183.22" gradientTransform="matrix(.42308 0 0 .42308 225.5 292.99)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ff6000" offset="0"/>
+<stop stop-color="#ff6000" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="c" x1="371.59" x2="505.78" y1="547.07" y2="547.07" gradientTransform="matrix(.46154 0 0 .46154 101.83 195.13)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f06" offset="0"/>
+<stop stop-color="#f06" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="b" x1="51.61" x2="185.8" y1="549.65" y2="549.65" gradientTransform="matrix(.34615 0 0 .34615 172.7 203.66)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00ff9a" offset="0"/>
+<stop stop-color="#00ff9a" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="54.191" x2="188.38" y1="193.54" y2="193.54" gradientTransform="matrix(.30769 0 0 .30769 200.09 402.16)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fdff0c" offset="0"/>
+<stop stop-color="#fdff0c" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(-190.96 -330.83)">
+<g transform="translate(23.225)" fill="#ffffff" font-family="Bungee" font-weight="bold" letter-spacing="2.67px">
+<text x="318.72461" y="394.73584" font-size="68.446px" stroke-width="1.7112" style="line-height:68.55" xml:space="preserve"><tspan x="318.72461" y="394.73584" fill="#ffffff" stroke-width="1.7112">OutDoor </tspan></text>
+<text x="376.4931" y="453.02267" font-size="65.196px" stroke-width="1.6299" style="line-height:68.55" xml:space="preserve"><tspan x="376.4931" y="453.02267" fill="#ffffff" stroke-width="1.6299">Buddy </tspan></text>
+</g>
+<g transform="translate(12.903 -12.376)">
+<circle cx="216.76" cy="459.33" r="20.644" fill="url(#a)" stroke-width=".30818"/>
+<circle cx="201.28" cy="394.82" r="23.225" fill="url(#b)" stroke-width=".3467"/>
+<circle cx="286.44" cy="446.43" r="30.966" fill="url(#c)" stroke-width=".46226"/>
+<circle cx="273.53" cy="371.59" r="28.386" fill="url(#d)" stroke-width=".42374"/>
+</g>
+</g>
+</svg>
+

@@ -1,0 +1,10 @@
+export const START_LOADING = 'START_LOADING';
+export const END_LOADING = 'END_LOADING';
+export const GET_WEATHER = 'GET_WEATHER';
+export const GET_CACHE = 'GET_CACHE';
+export const AUTH = 'AUTH';
+export const SET_ERROR = 'SET_ERROR';
+export const END_ERROR = 'END_ERROR';
+export const LOGOUT = 'LOGOUT';
+export const ZIPCODE_ERROR= 'ZIPCODE_ERROR';
+export const END_ZIPCODE_ERROR= 'END_ZIPCODE_ERROR';
