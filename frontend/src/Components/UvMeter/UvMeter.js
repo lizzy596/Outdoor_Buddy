@@ -45,6 +45,10 @@ const calcValue = (desc) => {
         case 'Very High':
           gauge = 75
         break;
+
+        case 'Extreme':
+          gauge = 95
+        break;
               
        
                
@@ -102,6 +106,10 @@ const calcValue = (desc) => {
       text = '30SPF+, reduce 10am-4pm sun exposure'
     }
     else if(desc === 'Very High') {
+      text =  '30SPF+, avoid 10am-4pm sun exposure'
+    }
+
+    else if(desc === 'Extreme') {
       text =  '30SPF+, avoid 10am-4pm sun exposure'
     }
 
